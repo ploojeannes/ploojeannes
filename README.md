@@ -2,10 +2,13 @@
 
 My research experience lies in neuroscience, studying at the cellular level. Through various experiences, I've found a passion for the protection of intellectual property and hope to pursue a career in patent law. 
 
-I am eager to contribute to initiatives that combine neuroscience and computation/modeling so that I may strengthen my knowledge before entering the legal field. 
+I am eager to contribute to initiatives that combine neuroscience and computation/modeling so that I may strengthen my knowledge before entering the legal field!
 
-Other information:
-- she/her
+**Skills:**<br>
+Project Management | FIJI (ImageJ) |
+
+**Other information:**
+- Pronouns: she/her<br>
 - Fun fact: born in Florida
 <!--
 **ploojeannes/ploojeannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
