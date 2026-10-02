@@ -1,4 +1,4 @@
-## Hello! I'm Jeanne, a second-year pre-law student at UC San Diego studying Cognitive Science: Machine Learning & Neural Computation. ˚ʚ♡ɞ˚
+## Hello! I'm Jeanne, a pre-law student at UC San Diego studying Cognitive Science: Machine Learning & Neural Computation. ˚ʚ♡ɞ˚
 
 My research experience lies in neuroscience, studying at the cellular level. Through various experiences, I've found a passion for the protection of intellectual property and hope to pursue a career in patent law. 
 
