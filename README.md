@@ -12,13 +12,6 @@ Additionally, I've spent time pursuing passion projects revolving around cafe wo
 Ultimately, I want to help people protect their work.
 
 
-**Skills:**<br>
-Project Management | FIJI (ImageJ) |
-
-**Other information:**
-- Pronouns: she/her<br>
-- Fun fact: born in Florida
-<!--
 **ploojeannes/ploojeannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
