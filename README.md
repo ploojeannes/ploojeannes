@@ -1,8 +1,16 @@
-## Hello! I'm Jeanne, a pre-law student at UC San Diego studying Cognitive Science: Machine Learning & Neural Computation. ˚ʚ♡ɞ˚
+## Hello! I'm Jeanne, a pre-law student at UC San Diego studying Cognitive Science: Machine Learning & Neural Computation. 
 
-My research experience lies in neuroscience, studying at the cellular level. Through various experiences, I've found a passion for the protection of intellectual property and hope to pursue a career in patent law. 
+I hope to pursue a legal career concerned with matters of security (business, intellectual property, data), by combining it with my technical experience. 
 
-I am eager to contribute to initiatives that combine neuroscience and computation/modeling so that I may strengthen my knowledge before entering the legal field!
+My research experience is varied, here are some positions I've held: 
+- Lab Assistant: Studying mitochondrial morphology of neurons
+- Undergraduate Law Review: Copyright ambiguity, music law, computer security law
+- Internships: Best practices for generative AI use in scientific communications
+
+Additionally, I've spent time pursuing passion projects revolving around cafe work. I've hosted events (3+ brand sponsorships/partnerships, 1000+ RSVPs, 400-600 attendees), as well as worked on cafe operations for a local spot in my hometown. 
+
+Ultimately, I want to help people protect their work.
+
 
 **Skills:**<br>
 Project Management | FIJI (ImageJ) |
